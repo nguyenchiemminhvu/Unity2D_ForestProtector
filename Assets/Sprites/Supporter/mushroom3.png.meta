@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: a9c5080b89846ff44b553c1ced586ac6
+timeCreated: 1460106199
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mushroom3_0
+    21300002: mushroom3_1
+    21300004: mushroom3_2
+    21300006: mushroom3_3
+    21300008: mushroom3_4
+    21300010: mushroom3_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mushroom3_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 64}
+        - {x: -61.5, y: -40}
+        - {x: -54.5, y: -64}
+        - {x: 41.5, y: -64}
+        - {x: 61.5, y: -13}
+        - {x: 61.5, y: 56}
+        - {x: 36.5, y: 64}
+    - name: mushroom3_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 64}
+        - {x: -61.5, y: -40}
+        - {x: -54.5, y: -64}
+        - {x: 41.5, y: -64}
+        - {x: 61.5, y: -13}
+        - {x: 61.5, y: 56}
+        - {x: 36.5, y: 64}
+    - name: mushroom3_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 61.5}
+        - {x: -61.5, y: 49.5}
+        - {x: -61.5, y: -0.5}
+        - {x: -37.5, y: -61.5}
+        - {x: 41.5, y: -61.5}
+        - {x: 61.5, y: 5.5}
+        - {x: 61.5, y: 41.5}
+        - {x: 39.5, y: 61.5}
+    - name: mushroom3_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 64}
+        - {x: -61.5, y: -40}
+        - {x: -54.5, y: -64}
+        - {x: 41.5, y: -64}
+        - {x: 61.5, y: -13}
+        - {x: 61.5, y: 56}
+        - {x: 36.5, y: 64}
+    - name: mushroom3_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 123
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 63}
+        - {x: -42.5, y: 63}
+        - {x: -61.5, y: 53}
+        - {x: -61.5, y: -8}
+        - {x: -27.5, y: -63}
+        - {x: 43.5, y: -63}
+        - {x: 61.5, y: -15}
+        - {x: 61.5, y: 44}
+        - {x: 59.5, y: 54}
+    - name: mushroom3_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 123
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 25}
+        - {x: -29.5, y: 25}
+        - {x: -61.5, y: -1}
+        - {x: -61.5, y: -21}
+        - {x: -57.5, y: -25}
+        - {x: 61.5, y: -25}
+        - {x: 61.5, y: 0}
+        - {x: 35.5, y: 21}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
